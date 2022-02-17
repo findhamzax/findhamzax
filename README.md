@@ -2,7 +2,7 @@
 
 ## full:stack maker
 
-*developer @ [mailman](https://www.mailmanhq.com/)* | *building [parcel](https://getparcel.in/)* | *creator of [dailyBrew](https://app.dailybrew.co/)*
+*developer @ [tiny](https://www.tinycapital.com/)* | *building [parcel](https://getparcel.in/)* | *creator of [dailyBrew](https://app.dailybrew.co/)*
 
 ## 💻 what i do ##
 *on the front-end, i use a combination of html, css, and javascript and its frameworks to build everything a user sees and interacts with on a website or mobile application. on the back-end, i develop the application, server, and database that make up the foundational structure of an application.*  
